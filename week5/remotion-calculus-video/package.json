@@ -1,0 +1,20 @@
+{
+  "name": "remotion-calculus-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "remotion preview",
+    "build": "remotion render CalculusNarration --codec h264 --output out/video.mp4",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  }
+}

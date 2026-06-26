@@ -1,0 +1,27 @@
+Scene 1
+
+Welcome to today's lesson on the Fundamental Theorem of Calculus. This theorem connects the two central ideas of calculus: differentiation and integration.
+
+Scene 2
+
+Before studying the theorem, recall that a definite integral represents accumulated change or the area under a curve. We can build an accumulation function by integrating from a fixed point.
+
+Scene 3
+
+The first part of the theorem tells us that differentiating this accumulation function gives back the original function. This remarkable relationship explains why derivatives and integrals are inverse processes.
+
+Scene 4
+
+The second part of the theorem allows us to evaluate definite integrals efficiently. Rather than approximating areas directly, we compute an antiderivative and evaluate it at the interval endpoints.
+
+Scene 5
+
+Let's look at an example. The integral from zero to two of three x squared equals x cubed evaluated between zero and two, giving a final answer of eight.
+
+Scene 6
+
+The Fundamental Theorem of Calculus appears throughout mathematics, physics, engineering, economics, and data science whenever accumulated quantities are analyzed.
+
+Scene 7
+
+In summary, remember these three ideas: integration measures accumulation, differentiation measures change, and the Fundamental Theorem of Calculus connects them into one unified concept.
